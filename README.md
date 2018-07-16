@@ -17,7 +17,7 @@ compress a file to .bz2 or .gz the smallest of the two
 
 <div align="center">
 
-<img max-height="500px" max-width="500px" src="blob/master/img/bz2gz-screenshot.png?raw=true">
+<img max-height="500px" max-width="500px" src="https://raw.githubusercontent.com/franci/cafebash/master/img/bz2gz-screenshot.png">
 
 </div>
 </details>
@@ -29,7 +29,7 @@ change the .mp3 file using --avg option
 
 <div align="center">
 
-<img max-height="500px" max-width="500px" src="https://github.com/flikxxi/cafebash/blob/master/img/relame-screenshot.png?raw=true">
+<img max-height="500px" max-width="500px" src="https://raw.githubusercontent.com/franci/cafebash/master/img/relame-screenshot.png">
 
 </div>
 </details>
@@ -41,7 +41,7 @@ change the .mp3 file using --avg option
 
 * First clone the repository:  
 ```bash
-git clone https://github.com/flikxxi/cafecore
+git clone https://github.com/flikxxi/cafebash
 ```
 
 * Then cd into the cloned directory:
